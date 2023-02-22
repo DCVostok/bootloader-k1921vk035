@@ -1,0 +1,8 @@
+# Testing
+Test use flasher tool [k1921vkx_flasher](https://github.com/DCVostok/k1921vkx_flasher).
+
+## Run test 
+ ```
+ cd test/test_firmware
+ pio run -t run_tests --upload-port COM6
+ ```
